@@ -1,0 +1,29 @@
+{
+  "name": "blank-s-theme-reborn",
+  "displayName": "Blank's Theme Reborn",
+  "description": "A dark high contrast color theme, built to be easy to use.",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.107.0"
+  },
+  "author": "Quidque Studio",
+  "icon": "./QuidqueLogo-x128.png",
+  "repository": "https://github.com/Quidque-Studio/Blank-s-Theme-Reborn",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Blank's Theme Reborn - HC Dark",
+        "uiTheme": "hc-black",
+        "path": "./themes/blank-s-theme-reborn-hc-dark.json"
+      },
+      {
+        "label": "Blank's Theme Reborn - Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/blank-s-theme-reborn-dark.json"
+      }
+    ]
+  }
+}
