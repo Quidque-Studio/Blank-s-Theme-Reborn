@@ -1,15 +1,12 @@
 # Blank's Theme Reborn
 
-**Back from the dead.** This is a complete overhaul of the original Blank's Theme released a year ago.
-
-The goal is simple: **Maximum distinction.**
-I've tuned the colors to make sure you can instantly tell the difference between variables, functions, and keywords without guessing. No visual noise, just clean syntax highlighting.
+The goal is simple: Good distinctions, and cool :P
 
 ## What's New?
 
-* Refined color palette for better contrast.
-* Updated support for modern VS Code syntax.
-* Cleaner UI borders.
+* New Syntax color palette
+* Cleaner UI.
+* Fewer colors for consistency
 
 ## Preview
 
