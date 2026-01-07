@@ -2,7 +2,7 @@
   "name": "blank-s-theme-reborn",
   "displayName": "Blank's Theme Reborn",
   "description": "A dark high contrast color theme, built to be easy to use.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.107.0"
   },
